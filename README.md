@@ -338,24 +338,7 @@ Judge: x-ai/grok-4.1-fast:free
 - ✅ Comprehensive error handling
 - ✅ Timeout protection
 
-## 📄 License
 
-MIT License - see parent repository
-
-## 🔐 Security Note
-
-**⚠️ IMPORTANT**: This repository contains NO API keys, tokens, or credentials. All API keys must be provided via environment variables:
-
-- `OPENROUTER_API_KEY` (or your preferred API key variable)
-- `HF_TOKEN` / `HUGGINGFACE_HUB_TOKEN` (for dataset access)
-
-Never commit API keys or tokens to version control.
-
-## 🙏 Credits
-
-- **Arcee AI**: For [Verifiers framework](https://github.com/arcee-ai/verifiers) and RLVR paradigm
-- **Anna4242**: For tool-n1 dataset
-- **Verifiers Community**: For the excellent RL training framework
 
 ---
 
