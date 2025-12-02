@@ -1,20 +1,9 @@
 # VF Nemotron Multi-hop Tool-use Environment
 
-A Reinforcement Learning from Verifier Feedback (RLVR) environment for training language models on multi-hop (3-6-9) multi-turn tool-use tasks with judge-based rewards.
-
-## What is RLVR?
-
-**RLVR (Reinforcement Learning from Verifier Feedback)** is a training paradigm implemented by the [Verifiers framework](https://github.com/PrimeIntellect-ai/verifiers). Instead of training on human feedback, models learn from automated verifiers that evaluate their outputs across multiple criteria.
+A Reinforcement Learning from Verifier Feedback (RLVR) environment for training language models on multi-hop  multi-turn tool-use tasks with judge-based rewards.
+built using  [Verifiers framework](https://github.com/PrimeIntellect-ai/verifiers). 
 
 
-
-## 📦 Installation
-
-### Prerequisites
-
-- Python >=3.11
-- API key for tool execution (configurable)
-- HuggingFace token for dataset access (if using HuggingFace datasets)
 
 ### Quick Install
 
