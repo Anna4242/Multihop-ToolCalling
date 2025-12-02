@@ -112,7 +112,7 @@ save_steps = 100
   - `answer`: Expected tool call sequence (JSON array)
   - `task`: Task description (may contain hop count info)
 
-## 🔧 Configuration
+##  Configuration
 
 ### Tool Execution Model
 
